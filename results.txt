@@ -1,0 +1,6 @@
+Oscar     Martinez  77.00     66.00     34.00     92.00     92.00     70.00     215.50    
+Maria     Riparo    93.00     71.00     84.00     71.00     71.00     83.60     236.80    
+Ave       Gonzalez  74.00     63.00     81.00     91.00     91.00     81.60     240.80    
+Maricor   Pangalan  69.00     55.00     98.00     97.00     97.00     82.60     249.30    
+Josiah    Pemberton 58.00     67.00     79.00     91.00     91.00     77.00     231.50    
+Highest score: Maricor Pangalan
